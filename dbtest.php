@@ -1,7 +1,7 @@
 <?php
 //require_once ('test.php');
 //Tobias
-//Abdellah
+//Abdellah 1
 http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">';
 echo '<meta http-equiv="content-type" content="text/html; charset=utf-8" />';
 require_once ('konfiguration.php');
